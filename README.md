@@ -5,5 +5,5 @@ Modified Nodal Analysis based circuit simulator for solving circuits containing 
 components.
 
 ===
-####This simulator has been used to solve IBM Power Grid Benchmarks [ibmpg](http://dropzone.tamu.edu/~pli/PGBench/) contaning more than 1 million nodes.
+######This simulator has been used to solve IBM Power Grid Benchmarks [ibmpg](http://dropzone.tamu.edu/~pli/PGBench/) contaning more than 1 million nodes.
 ===

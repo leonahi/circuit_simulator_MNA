@@ -7,5 +7,5 @@ components.
 Keywords - Modified Nodal Analysis, LU Decomposition, SPICE Netlist, c++.
 
 ===
-######This simulator has been used to solve IBM Power Grid Benchmarks [ibmpg](http://dropzone.tamu.edu/~pli/PGBench/) contaning more than 1 million nodes.
+######The modified version of this simulator is used to solve IBM Power Grid Benchmarks [ibmpg](http://dropzone.tamu.edu/~pli/PGBench/) contaning more than 1 million nodes.
 ===
